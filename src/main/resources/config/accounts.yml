@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+accounts:
+  message: "Welcome to Global Gateway Bank accounts related local APIs"
+  contactDetails:
+    name: "Apoorva Shukla - Developer"
+    email: "apshuk21@gmail.com"
+  onCallSupport:
+    - (555) 123-1234
+    - (555) 234-4321
